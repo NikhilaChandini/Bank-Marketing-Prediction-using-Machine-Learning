@@ -43,7 +43,7 @@ Note: Dataset is not included due to size constraints.
 
 ## Screenshots
 
-(Add graphs and output screenshots here)
+https://github.com/NikhilaChandini/Bank-Marketing-Prediction-using-Machine-Learning/blob/a87c15009834e57fbe02f34aa3d8f923d41926f2/Bank%20Marketing%20Snapshots.pdf
 
 ---
 
