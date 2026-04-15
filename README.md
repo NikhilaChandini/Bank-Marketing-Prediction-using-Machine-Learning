@@ -38,7 +38,7 @@ The goal is to help businesses identify potential customers and optimize marketi
 
 The dataset used is the Bank Marketing dataset, which contains customer demographic and campaign-related information.
 
-(Note: Dataset is not included due to size constraints.)
+Note: Dataset is not included due to size constraints.
 ---
 
 ## Screenshots
